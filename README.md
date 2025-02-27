@@ -46,7 +46,7 @@ chmod +x convert_pod_to_pdf.sh
 
 ## Final Output
 ✅ PDFs stored in `OpenSSL/`
-✅ Zip file created: `OpenSSL_PDFs.zip` (inside `~/Documents/`)
+✅ Zip file created
 
 ---
 
